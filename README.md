@@ -1,6 +1,5 @@
 -  Hi, I’m Shant Zargarian!
 -  Linkedin https://www.linkedin.com/in/shant-zargarian-606248237/
--  
 ```javascript
 >>> from upcoming_talent import shantZargarian
 >>> import json
