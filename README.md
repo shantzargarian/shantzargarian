@@ -3,3 +3,6 @@
 -  I am always keen to learn more and open to new information that can improve my prowess in programming!
 -  How to reach me: shant.zargarian@gmail.com
 -  Linkedin https://www.linkedin.com/in/shant-zargarian-606248237/
+```python
+def hello_world():
+    print("Hello, world!")
