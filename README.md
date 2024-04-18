@@ -21,14 +21,14 @@
         "JavaScript",
         "Java",
         "C++",
-        "Json",
         "Python",
         "HTML",
         "CSS"
     ],
     "frameworks": [
         "Chai",
-        "Mocha"
+        "Mocha",
+        "Json"
     ],
     "tools": [
         "Figma",
