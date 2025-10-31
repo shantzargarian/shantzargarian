@@ -9,7 +9,7 @@
 {
     "name": "Shant Zargarian",
     "occupation": "Student/Software Engineer",
-    "school": "Pasadena City College",
+    "school": "University of California, San Diego",
     "interests": [
         "Full-Stack Development",
         "System Design",
