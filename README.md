@@ -1,5 +1,5 @@
 -  Hi, I’m Shant Zargarian!
--  [Linkedin](https://www.linkedin.com/in/shantzargarian/)
+-  Linkedin: https://www.linkedin.com/in/shantzargarian/
 ```javascript
 >>> from upcoming_talent import shantZargarian
 >>> import json
